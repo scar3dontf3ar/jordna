@@ -37,3 +37,9 @@ int main()
     }
     return(0);
 }
+
+//int x = 0;
+int pos = 0;
+printf("enter two numbers separated by a space: ");
+scanf("%i %i", x, pos);
+
